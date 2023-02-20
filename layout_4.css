@@ -15,14 +15,18 @@ body{
     padding-left: 30px;
     padding-top: 30px;
     margin-right: 0px;
-    font-size: 20px;
+    font-size: 30px;
 }
 .address{
     margin-left: 30px;
     font-size: 20px;
-    margin-right: 0px;
-    padding-bottom: 5px;
+    line-height: 30px;
+   
 
+}
+.box{
+    background-color: rgb(240, 238, 238);
+    height: 285px;
 }
 
 /* ------------------------- section1 part --------------------------------- */
@@ -119,8 +123,7 @@ body{
     height: 10px;
     background-color:  rgb(217, 22, 168);
     width: 30px;
-    margin-top: -16px;
-    margin-left: 32px;
+   
     
 }
 /* ------------------------- Footer part --------------------------------- */
